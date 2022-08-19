@@ -11,13 +11,14 @@ import Foundation
 print("Welcome to Dicoding Academy")
 
 print("Masukkan nama depan Anda:"); let firstName = readLine()!
+print("Masukkan nama depan Anda:"); let middleName = readLine()!
 print("Masukkan nama belakang Anda:"); let lastName = readLine()!
 print("Masukkan alamat Anda:"); let address = readLine()!
 print("Masukkan pekerjaan Anda:"); let job = readLine()!
 print("Masukkan umur Anda:"); let age = readLine()!
 
 //Menggabungkan nama
-let fullName = firstName + " " + lastName
+let fullName = firstName + " " + + " " + middleName + " " + lastName
 
 print("------------------------------")
 
