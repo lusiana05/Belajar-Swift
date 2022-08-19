@@ -18,7 +18,7 @@ print("Masukkan pekerjaan Anda:"); let job = readLine()!
 print("Masukkan umur Anda:"); let age = readLine()!
 
 //Menggabungkan nama
-let fullName = firstName + " " + + " " + middleName + " " + lastName
+let fullName = firstName + " " + " " + middleName + " " + lastName
 
 print("------------------------------")
 
