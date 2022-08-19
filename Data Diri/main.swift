@@ -25,6 +25,6 @@ print("------------------------------")
 //Print program
 print("Did you know \(fullName)?")
 print("\(firstName) is an \(job)")
-print("She is \(age) years old and lived in \(address).")
+print("She is \(age) and lived in \(address).")
 
 print("------------------------------")
